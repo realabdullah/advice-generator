@@ -17,8 +17,7 @@
 body {
   background: var(--dark-blue);
   line-height: 1.6;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Manrope', sans-serif;
   font-size: 15px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -43,6 +42,7 @@ body {
   justify-content: center;
   padding: 40px;
   text-align: center;
+  border-radius: 15px;
 }
 
 .advice__no {
