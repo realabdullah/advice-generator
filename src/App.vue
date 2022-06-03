@@ -5,9 +5,3 @@ import AdviceCard from './components/AdviceCard.vue';
 <template>
   <AdviceCard />
 </template>
-
-<style>
-/* @import "./assets/base.css"; */
-
-
-</style>
