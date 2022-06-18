@@ -16,7 +16,6 @@ export const useGetQuote = defineStore({
         this.id = this.quoteData.slip.id
         this.quote = this.quoteData.slip.advice
       } catch (error) {
-        // console.log(error)
       }
     }
   }
